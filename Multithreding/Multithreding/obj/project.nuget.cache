@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QVTXApXVeNaJ2XiTOl0NmjRZhBYuPMb5YnzgqCehc+F3ibZ0uQr1Ek5WlE4D9GkH2rqoY9/Hfh45G+V1mPZ1FA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dell1\\source\\repos\\Multithreding\\Multithreding\\Multithreding.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dell1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

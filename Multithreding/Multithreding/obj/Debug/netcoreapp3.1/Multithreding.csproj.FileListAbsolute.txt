@@ -1,0 +1,13 @@
+C:\Users\dell1\source\repos\Multithreding\Multithreding\bin\Debug\netcoreapp3.1\Multithreding.exe
+C:\Users\dell1\source\repos\Multithreding\Multithreding\bin\Debug\netcoreapp3.1\Multithreding.deps.json
+C:\Users\dell1\source\repos\Multithreding\Multithreding\bin\Debug\netcoreapp3.1\Multithreding.runtimeconfig.json
+C:\Users\dell1\source\repos\Multithreding\Multithreding\bin\Debug\netcoreapp3.1\Multithreding.runtimeconfig.dev.json
+C:\Users\dell1\source\repos\Multithreding\Multithreding\bin\Debug\netcoreapp3.1\Multithreding.dll
+C:\Users\dell1\source\repos\Multithreding\Multithreding\bin\Debug\netcoreapp3.1\Multithreding.pdb
+C:\Users\dell1\source\repos\Multithreding\Multithreding\obj\Debug\netcoreapp3.1\Multithreding.csprojAssemblyReference.cache
+C:\Users\dell1\source\repos\Multithreding\Multithreding\obj\Debug\netcoreapp3.1\Multithreding.AssemblyInfoInputs.cache
+C:\Users\dell1\source\repos\Multithreding\Multithreding\obj\Debug\netcoreapp3.1\Multithreding.AssemblyInfo.cs
+C:\Users\dell1\source\repos\Multithreding\Multithreding\obj\Debug\netcoreapp3.1\Multithreding.csproj.CoreCompileInputs.cache
+C:\Users\dell1\source\repos\Multithreding\Multithreding\obj\Debug\netcoreapp3.1\Multithreding.dll
+C:\Users\dell1\source\repos\Multithreding\Multithreding\obj\Debug\netcoreapp3.1\Multithreding.pdb
+C:\Users\dell1\source\repos\Multithreding\Multithreding\obj\Debug\netcoreapp3.1\Multithreding.genruntimeconfig.cache
